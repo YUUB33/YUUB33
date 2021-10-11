@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuu-qi
-- 👀 I’m interested in project management, game development, and data science
+- 👀 I’m interested in project management, game development, and data analytics
 - 🌱 I’m currently learning how to use github
 - 📫 How to reach me: yuqianh@andrew.cmu.edu or yuu#0671
 
